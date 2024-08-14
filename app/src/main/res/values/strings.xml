@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Receta</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Slogan">Your Kitchen Companion</string>
+    <string name="lets_gobtn">lets go</string>
+    <string name="register">Register</string>
+    <string name="registertxt">Register</string>
+    <string name="login">Login</string>
+    <string name="logintxt">Login</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="nothave">Not Have An Account?</string>
+    <string name="name">Full Name</string>
+    <string name="registered">Already Registered?</string>
+    <string name="about_us">About Us</string>
+    <string name="about_Text">Welcome to Receta! Your go-to kitchen companion for delicious and inspiring recipes. We\'re passionate about food and believe that cooking should be fun and accessible to everyone. That\'s why we created Receta.</string>
+
+</resources>
